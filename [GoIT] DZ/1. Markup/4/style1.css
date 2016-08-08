@@ -1,0 +1,74 @@
+.main{
+	height: 30px; 
+	background-color: #BA55D3;
+}
+
+.menu{	
+	width: 900px;
+	height: 30px;
+	margin: 0 auto;
+}
+
+.home{
+	display: inline-block;
+	padding: 5px 5px 6px 5px;
+}
+
+.news{
+	display: inline-block;
+	padding: 5px 5px 6px 5px;
+}
+
+.economics{
+	display: inline-block;
+	padding: 5px 5px 6px 5px;
+}
+
+.local{
+	display: inline-block;
+	padding: 5px 5px 6px 5px;
+}
+
+.sport{
+	display: inline-block;
+	padding: 5px 5px 6px 5px;
+}
+
+.culture{
+	display: inline-block;
+	padding: 5px 5px 6px 5px;
+}
+
+.travels{
+	display: inline-block;
+	padding: 5px 5px 6px 5px;
+}
+
+div.home:hover{
+	background-color: #fff;
+}
+
+div.news:hover{
+	background-color: #fff;
+}
+
+div.economics:hover{
+	background-color: #fff;
+}
+
+div.local:hover{
+	background-color: #fff;
+}
+
+div.sport:hover{
+	background-color: #fff;
+}
+
+div.culture:hover{
+	background-color: #fff;
+}
+
+div.travels:hover{
+	background-color: #fff;
+}
+
