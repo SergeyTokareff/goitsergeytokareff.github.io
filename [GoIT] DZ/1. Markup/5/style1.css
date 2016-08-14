@@ -1,17 +1,15 @@
-body{
-	position: relative;
-}
 .main{
 	height: 30px; 
-	background-color: #1aa4ff;
-	font-family: Impact;
-	color: #fff;
+	background-color: #1aa4ff;	
 }
 
 .menu{	
 	width: 900px;
 	height: 30px;
 	margin: 0 auto;
+	position: relative;
+	font-family: Impact;
+	color: #fff;
 }
 
 .menu li{
@@ -25,16 +23,16 @@ body{
 	color: #b6b1a6;
 }
 
-
-
 .submenu{
 	display: none;
-	}
+	margin-top: 6px;
+	color: afa3b6;
+}
 
 .menu li:hover ul{
 	display: inline-block;
 	position: absolute;
 	left: 0;
-	right: 0;
 }
+
 
