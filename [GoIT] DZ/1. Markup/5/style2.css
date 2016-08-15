@@ -7,9 +7,35 @@
 }
 
 .best_value{
+	overflow: hidden;
 	height: 74px;
 	background-color: #ee8129;
 	color: #fff;
 	font-family: Impact;
 	text-align: center;
+}
+
+.best_value p{	
+	padding-top: 10px;
+}
+
+.iconic_graphics{
+	text-align: center;
+	font-size: 24px;
+}
+
+.monthly{	
+	text-align: center;
+}
+
+.monthly strong{
+	font-size: 60px;
+}
+
+.monthly sup{
+	font-size: 36px;
+}
+
+.monthly sub{
+	font-size: 22px;
 }
