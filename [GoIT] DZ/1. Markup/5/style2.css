@@ -39,3 +39,17 @@
 .monthly sub{
 	font-size: 22px;
 }
+
+ul li{
+	background-color: edf5ed;
+	height: 32px;
+}
+
+
+ul li{
+	list-style-type: none;
+}
+
+img{
+	margin-right: 5px;
+}
