@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .main{
     width: 1400px;
     background-color: #FFF;
@@ -9,7 +14,58 @@ header{
 
 .header{
     width: 1020px;
-    height: 116px;
+    height: 100%;
     margin: 0 auto;
+}
 
+/*
+LOGO
+*/
+
+.logo{
+    font-family: Regular, sans-serif;
+    margin-top: 47px;
+    margin-bottom: 37px;
+    font-size: 32px;
+    float: left;
+}
+
+.company{
+    color: #EE8129;
+}
+
+.name {
+    color: #3170A8;
+}
+
+/*
+MENU
+*/
+
+.menu{
+    font-family: OpenSans Semi-Bold, sans-serif;
+    float: right;
+}
+
+.menu ul li{
+    text-transform: uppercase;
+    list-style-type: none;
+    float: left;
+    font-size: 14px;
+    position: relative;
+    top: 66px;
+    margin-right: 30px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #989898;
+}
+
+.menu ul li:last-child{
+    margin-right: 75px;
+}
+
+.menu ul{
+    margin: 0;
 }
