@@ -1,0 +1,192 @@
+/*
+Main
+*/
+
+.main{
+    display: inline-flex;
+    margin:60px 192px 0 192px;
+}
+
+/*
+All
+*/
+
+.iconic_graphics{
+    text-align: center;
+    font-size: 24px;
+    font-family: Economica;
+    color: #7D7D7E;
+}
+
+.monthly{
+    text-align: center;
+    color: #7D7D7E;
+}
+
+.monthly strong{
+    font-size: 60px;
+}
+
+.monthly sup{
+    font-size: 36px;
+}
+
+.monthly sub{
+    font-size: 22px;
+}
+
+ul li{
+    line-height: 32px;
+    width: 200px;
+}
+
+ul li{
+    list-style-type: none;
+    display: table;
+    padding: 0 0 0 16px;
+    font-family: Economica bold;
+    color: #A7ABB3;
+}
+
+ul li span{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+img{
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.list ul li:nth-child(1){
+    background-color: #EEF5FC;
+}
+
+.list ul li:nth-child(3){
+    background-color: #EEF5FC;
+}
+
+.list ul li:nth-child(2){
+    background-color: #F5F5F6;
+}
+
+.list ul li:nth-child(4){
+    background-color: #F5F5F6;
+}
+
+.enroll_today{
+    text-align: center;
+}
+
+/*
+Standart
+*/
+
+.main2{
+    -margin: 100px 0 0 160px;
+    border-radius: 5px;
+    width: 296px;
+    height: 468px;
+    border: 3px solid #37C2D3;
+    box-shadow: 0 0 5px 4px #cbe2ef;
+
+}
+
+.standard{
+    overflow: hidden;
+    height: 74px;
+    background-color: #37C2D3;
+    color: #fff;
+    font-family: Economica;
+    text-align: center;
+}
+
+.standard p{
+    padding-top: 10px;
+}
+
+.main2 button{
+    width: 252px;
+    height: 38px;
+    background-color: #3371A6;
+    color: #fff;
+    font-family: Economica;
+    border-radius: 5px;
+    box-shadow: 0 3px #16436A;
+    border: none;
+}
+
+/*
+Best Value
+*/
+
+.main1{
+    -margin: 100px 0 0 160px;
+    border-radius: 5px;
+    width: 296px;
+    height: 468px;
+    border: 3px solid #ee8129;
+    box-shadow: 0 0 5px 4px #cbe2ef;
+}
+
+.best_value{
+    overflow: hidden;
+    height: 74px;
+    background-color: #ee8129;
+    color: #fff;
+    font-family: Economica;
+    text-align: center;
+}
+
+.best_value p{
+    padding-top: 10px;
+}
+
+.main1 button{
+    width: 252px;
+    height: 38px;
+    margin: 0 auto;
+    background-color: #ee8129;
+    color: #fff;
+    font-family: Economica;
+    border-radius: 5px;
+    box-shadow: 0 3px #b3560b;
+    border: none;
+}
+
+/*
+Ultimate
+*/
+
+.main3{
+    -margin: 100px 0 0 160px;
+    border-radius: 5px;
+    width: 296px;
+    height: 468px;
+    border: 3px solid #1CB79A;
+    box-shadow: 0 0 5px 4px #cbe2ef;
+}
+
+.ultimate{
+    overflow: hidden;
+    height: 74px;
+    background-color: #1CB79A;
+    color: #fff;
+    font-family: Economica;
+    text-align: center;
+}
+
+.ultimate p{
+    padding-top: 10px;
+}
+
+.main3 button{
+    width: 252px;
+    height: 38px;
+    background-color: #3371A6;
+    color: #fff;
+    font-family: Economica;
+    border-radius: 5px;
+    box-shadow: 0 3px #16436A;
+    border: none;
+}
