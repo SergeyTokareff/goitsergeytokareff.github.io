@@ -6,3 +6,10 @@
 header{
     height: 116px;
 }
+
+.header{
+    width: 1020px;
+    height: 116px;
+    margin: 0 auto;
+
+}
