@@ -6,6 +6,7 @@ body{
 .main{
     width: 1400px;
     background-color: #FFF;
+    margin: 0 auto;
 }
 
 header{
@@ -68,4 +69,53 @@ MENU
 
 .menu ul{
     margin: 0;
+}
+
+/*
+BANNER
+*/
+
+.banner{
+
+    height: 585px;
+}
+
+.wordpress{
+    position: absolute;
+    text-align: center;
+    top: 269px;
+    left: 0;
+    right: 0;
+    color: #FFF;
+    line-height: 30px;
+    font-family: Regular, sans-serif;
+}
+
+.lorem{
+    position: absolute;
+    text-align: center;
+    top: 420px;
+    left: 0;
+    right: 0;
+    font-family: Italic, sans-serif;
+    color: #FFF;
+    font-size: 10px;
+}
+
+ .button_name{
+    position: absolute;
+    top: 536px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    height: 52px;
+    width: 239px;
+}
+
+button{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border-radius: 5px;
+    color: #FFF;
 }
