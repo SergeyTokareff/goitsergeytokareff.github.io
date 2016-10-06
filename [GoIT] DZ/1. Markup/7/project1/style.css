@@ -119,3 +119,22 @@ button{
     border-radius: 5px;
     color: #FFF;
 }
+
+/*
+
+SERVICES
+
+*/
+
+.services{
+    height: 560px;
+}
+
+.services span{
+    text-transform: uppercase;
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 790px;
+    text-align: center;
+}
