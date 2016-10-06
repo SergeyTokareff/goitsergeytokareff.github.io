@@ -127,14 +127,18 @@ SERVICES
 */
 
 .services{
+    position: relative;
     height: 560px;
 }
 
-.services span{
+.services p{
     text-transform: uppercase;
     font-family: Trebuchet MS, sans-serif;
     font-weight: bold;
     position: absolute;
-    top: 790px;
+    top: 90px;
+    width: 100%;
     text-align: center;
+    font-size: 20px;
+
 }
