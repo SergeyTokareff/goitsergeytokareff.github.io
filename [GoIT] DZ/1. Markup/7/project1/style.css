@@ -176,3 +176,27 @@ SERVICES
     font-size: 20px;
     color: #3070A8;
 }
+
+/*
+MIDDLE SECTION
+*/
+
+.middle-section{
+
+    height: 577px;
+    background: url("Layer 102.png");
+}
+
+.lorem1{
+    margin: 0;
+    padding-top: 107px;
+    text-transform: uppercase;
+    font-size: 26px;
+    color: #EE8129;
+}
+
+.lorem2{
+    font-size: 19px;
+    font-family: Open Sans, sans-serif;
+    color: #fff;
+}
