@@ -128,20 +128,51 @@ SERVICES
 .services{
     position: relative;
     height: 560px;
+    width: 1020px;
+    margin: 0 auto;
 }
 
-.services p{
+.services .lorem_ipsum{
     text-transform: uppercase;
     font-family: Trebuchet MS, sans-serif;
     font-weight: bold;
-    position: absolute;
-    top: 52px;
     width: 100%;
     text-align: center;
     font-size: 20px;
     color: #455660;
+    padding-top: 90px;
+    margin: 0;
+}
+
+.pro_al_det{
+    margin-top: 80px;
 }
 
 .protect{
-    width: 206px;
+    width: 306px;
+    float: left;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+    color: #B4B4B4;
+}
+
+.alert{
+    width: 306px;
+    float: left;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+    color: #B4B4B4;
+}
+
+.detect{
+    width: 306px;
+    float: left;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+    color: #B4B4B4;
+}
+
+.pad{
+    font-size: 20px;
+    color: #3070A8;
 }
