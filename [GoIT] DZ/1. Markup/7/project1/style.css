@@ -140,5 +140,8 @@ SERVICES
     text-align: center;
     font-size: 20px;
     color: #455660;
+}
 
+.protect{
+    width: 206px;
 }
