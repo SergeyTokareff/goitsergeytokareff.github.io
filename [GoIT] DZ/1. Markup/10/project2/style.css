@@ -23,6 +23,28 @@ body{
 }
 
 .photo{
-    width: 1140px;
+    width: 1200px;
     margin: 80px auto 0;
+}
+
+.link:hover{
+    background: #A1A1A1;
+}
+
+a:hover span{
+    display: block;
+}
+
+a{
+    text-decoration: none;
+    float: left;
+    margin: 0 20px;
+}
+
+a span{
+    display: none;
+    background: url(BG.png) no-repeat;
+    width: 360px;
+    height: 260px;
+    position: absolute;
 }
