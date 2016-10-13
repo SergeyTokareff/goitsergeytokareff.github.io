@@ -187,6 +187,11 @@ MIDDLE SECTION
     background: url("Layer 102.png");
 }
 
+.lorem0{
+    width: 1020px;
+    margin: 0 auto;
+}
+
 .lorem1{
     margin: 0;
     padding-top: 107px;
@@ -199,4 +204,18 @@ MIDDLE SECTION
     font-size: 19px;
     font-family: Open Sans, sans-serif;
     color: #fff;
+}
+
+.lorem0 ul{
+    padding-left: 20px;
+}
+
+.lorem0 li{
+    margin-bottom: 30px;
+    font-family: OpenSans Semi-Bold, sans-serif;
+    color: #2D5D86;
+}
+
+.lorem0 li:first-child, li:last-child{
+    color: #7B7C7C;
 }
