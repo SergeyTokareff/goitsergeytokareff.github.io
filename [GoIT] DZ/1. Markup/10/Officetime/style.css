@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 1200px;
+}
+
+.wrapper{
+    width: 972px;
+    padding-top: 61px;
+    margin: 0 auto;
+}
+
+hr{
+    margin: 0;
+    background-color: #F2F2F2;
+    height: 1px;
+    border: none;
+}
+
+.wrapper2{
+    margin: 0 auto;
+    width: 932px;
+}
+
+header{
+
+}
+
+.logo{
+    margin-left: 12px;
+    float: left;
+}
+
+.officetime{
+    font-family: "Oleo Script", sans-serif;
+    font-size: 40px;
+}
+
+.psd{
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    color: #B6B6B6;
+}
+
+ul{
+    margin: 0;
+    padding-top: 19px;
+}
+
+.menu{
+    float: right;
+}
+
+.menu li{
+    float: left;
+    list-style-type: none;
+    font-family: "Oxygen", sans-serif;
+    font-size: 14px;
+    margin-left: 36px;
+    text-align: center;
+    color: #848484;
+    padding: 8px;
+}
+
+.menu li:last-child{
+    background-color: #FEBB43;
+    color: #fff;
+    border-radius: 5px;
+}
