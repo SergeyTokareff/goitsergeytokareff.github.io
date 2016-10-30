@@ -26,12 +26,13 @@ hr{
 }
 
 header{
-
+    height: 90px;
 }
 
 .logo{
     margin-left: 12px;
     float: left;
+    margin-top:25px;
 }
 
 .officetime{
@@ -52,6 +53,7 @@ ul{
 
 .menu{
     float: right;
+    margin-top:25px;
 }
 
 .menu li{
@@ -69,4 +71,13 @@ ul{
     background-color: #FEBB43;
     color: #fff;
     border-radius: 5px;
+}
+
+/*
+    HERO UNIT
+*/
+
+.hero_unit{
+    height: 320px;
+    border-bottom: 1px solid #F2F2F2;
 }
