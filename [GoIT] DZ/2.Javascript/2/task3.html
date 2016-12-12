@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Admin</title>
+</head>
+<body>
+    <script>
+        var admin = prompt('Введите ваш логин:');
+       switch(admin){
+           case 'admin':
+                var pass = prompt('Ваш пароль:');
+                if(pass == 'password'){
+                    alert('Welcome!');
+                }else if(pass == null){
+                    alert('Canseled')
+                }else{
+                    alert('Wrong password');
+                }
+               break;
+           case null:
+               alert('Canseled');
+               break;
+           default:
+                alert('Access denied');
+               break;
+        }
+    </script>
+</body>
+</html>
