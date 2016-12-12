@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Year</title>
-</head>
-<body>
-    <script>
+<script>
         var year = prompt('Какой сейчас год?');
         if(year == 2016){
             console.log('Вы правы!');
@@ -13,5 +6,3 @@
             console.log('С луны свалился? 2016!!!');
         }
     </script>
-</body>
-</html>
